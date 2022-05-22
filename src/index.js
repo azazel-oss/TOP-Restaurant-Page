@@ -1,1 +1,3 @@
-console.log("I am connected");
+import pageLoadHome from "./home";
+
+pageLoadHome();
