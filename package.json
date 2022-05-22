@@ -1,0 +1,23 @@
+{
+  "name": "top-restaurant-page",
+  "version": "1.0.0",
+  "description": "Project with webpack as our javascript bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azazel-oss/TOP-Restaurant-Page.git"
+  },
+  "author": "Asad Mahmood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azazel-oss/TOP-Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/azazel-oss/TOP-Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
